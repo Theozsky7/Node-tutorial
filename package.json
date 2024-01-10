@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.10.7"
+  },
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "my 1st package.json",
+  "main": "4-names.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucaD",
+  "license": "ISC"
+}
